@@ -1,0 +1,11 @@
+certificateId,studentName,internshipDomain,startDate,endDate,grade
+CERT2024001,John Doe,Web Development,2024-01-01,2024-03-01,A+
+CERT2024002,Jane Smith,Data Science,2024-02-01,2024-04-01,A
+CERT2024003,Michael Johnson,Machine Learning,2024-01-15,2024-04-15,A
+CERT2024004,Emily Davis,Mobile App Development,2024-02-01,2024-03-31,B+
+CERT2024005,Robert Wilson,Cloud Computing,2024-01-01,2024-02-28,A+
+CERT2024006,Sarah Brown,UI/UX Design,2024-03-01,2024-05-01,A
+CERT2024007,David Martinez,Cybersecurity,2024-02-15,2024-04-15,A+
+CERT2024008,Lisa Anderson,Artificial Intelligence,2024-01-10,2024-04-10,A
+CERT2024009,James Taylor,DevOps,2024-02-01,2024-04-01,B+
+CERT2024010,Jennifer Thomas,Full Stack Development,2024-01-01,2024-03-31,A+
